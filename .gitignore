@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+/local.properties
+.idea/
+/build/
+/app/build/
+.DS_Store
+node_modules/
+supabase/.env.production.local
+supabase/.temp/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

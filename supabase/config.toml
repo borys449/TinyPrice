@@ -1,0 +1,5 @@
+# Este archivo lo genera `npx supabase init`.
+# Conserva lo que se generó y AGREGA estas líneas al final:
+
+[functions.search-products]
+verify_jwt = false
